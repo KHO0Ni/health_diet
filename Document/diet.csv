@@ -1,0 +1,13 @@
+cus_id,email,field_1,field_2,field_3,field_4,field_5,field_6,field_7,field_8,field_9,field_10,field_11,created_date
+,,title,Description,Age,Cure Disease,Food Habits,Food Habits,Diet Process,Gender,,,,
+28,admin@gmail.com,Lung,Maintain clean lung,Jan-00,Asthama,"Fruits, vegetables, omega-3 fatty acids (fish, flaxseeds), vitamin D-rich foods","magnesium-rich foods (almonds, spinach), ginger, turmeric",Started,Male,Pending,,,15-12-2020
+29,parth@gmail.com,Heart,maintain healthy heart,55,Heart disease,"Fruits, vegetables, omega-3 fatty acids (fish, flaxseeds), vitamin D-rich foods","whole grains (oats, quinoa), fruits (berries, oranges), vegetables (leafy greens, broccoli)",Loosing weight,Male,Pending,,,16-12-2020
+30,alpha@gmail.com,Pancreas,Control diabetes,43,Diabetes,"Leafy greens, whole grains, lean proteins, nuts, seeds, berries","Leafy greens (spinach, kale), whole grains (brown rice, quinoa), lean proteins (chicken breast, tofu), ",Controlled eating,Male,Pending,,,17-12-2020
+31,oilp@gmail.com,Blood Vessels,Controlling hypertension,45,Hypertension,"Potassium-rich foods (bananas, spinach, avocados), low-fat dairy, whole grains","Bananas, spinach, avocados",Started,Male,Pending,,,18-12-2020
+32,abs@gmail.com,Bones,Maintain Strong Bones,60,Oestioporosis,"Dairy products, leafy greens, almonds, fortified foods (cereals, orange juice)","fortified foods (cereals, orange juice), sardines, tofu, broccoli","Started, Treatment",Female,Pending,,,19-12-2020
+33,lion@gmail.com,Kidney,Healthy kidneys,54,Kidney Disease,"Low-sodium foods, leafy greens, berries, fish, olive oil","leafy greens, berries, fish","Started, Treatment",Male,Pending,,,20-12-2020
+34,king@gmail.com,Joints,Healthy Joints,40,Arthritis,"Fatty fish, olive oil, nuts, seeds, fruits, vegetables","leafy greens, berries, fish","Started, Treatment",Male,Pending,,,21-12-2020
+35,nolan@gmail.com,Brain,Brains health,32,Stroke,"Berries, leafy greens, whole grains, nuts, seeds, fatty fish","leafy greens, berries, fish","Started, Treatment",Female,Pending,,,22-12-2020
+36,xer@gmail.com,Brain,Alzheimer problem,33,Alzheimer's,"Fatty fish, berries, leafy greens, nuts, olive oil, whole grains","leafy greens, berries, fish",Treatment from doctors,Male,Pending,,,23-12-2020
+37,proa@gmail.com,various organs,Cancer problem,21,Cancers,"Cruciferous vegetables (broccoli, cauliflower), berries, garlic, turmeric, green tea","garlic, turmeric, green tea, fatty fish (salmon, mackerel),",Started,Male,Pending,,,24-12-2020
+38,dofan@gmail.com,N/A,N/A,20,Fever,"Clear fluids (water, herbal teas, clear broths)","water, herbal teas, clear broths",Started,Female,Pending,,,25-12-2020
