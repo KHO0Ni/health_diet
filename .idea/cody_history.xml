@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChatHistory">
+    <accountData>
+      <list>
+        <AccountData>
+          <accountId value="VXNlcjozNjUxOTE=" />
+          <chats>
+            <list>
+              <chat>
+                <internalId value="2e53c5fd-0123-445b-aa48-a5805ceb68bb" />
+              </chat>
+              <chat>
+                <internalId value="5dd1189f-09dc-4bcb-8185-aff34b132d52" />
+              </chat>
+            </list>
+          </chats>
+        </AccountData>
+      </list>
+    </accountData>
+  </component>
+</project>
